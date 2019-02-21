@@ -11,6 +11,6 @@ E-commerce que tiene como objetivo la rápida y fácil obtención de productos e
 
 ----------------------------------------------------------------------
 #Autores
-Jesús Alberto García Zamudio
-Eduardo Daniel García Rodríguez
-Saúl Eduardo Delgado González
+- Jesús Alberto García Zamudio
+- Eduardo Daniel García Rodríguez
+- Saúl Eduardo Delgado González
