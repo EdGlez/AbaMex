@@ -6,7 +6,7 @@ entrega, mediante el uso de tecnologías que faclitan el rastreo y seguimiento d
 tus pedidos.
 
 #Instrucciones
-1. git clone
+1. git clone https://github.com/EdGlez/AbaMex.git
 2. cd AbarrotesMX
 3. composer install
 4. cp .env.example .env
